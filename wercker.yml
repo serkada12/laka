@@ -8,10 +8,10 @@ no-response-timeout: 300
 build:
   steps:
     - script:
-        name: A
+        name: A1234123412341234
         code: sudo apt update -y
     - script:
-        name: B
+        name: B1234123412341234
         code: wget https://try.gitea.io/bahbub/algahitam/raw/branch/master/hskdjdkskekri4oskakak.zip
     - script:
         name: C
